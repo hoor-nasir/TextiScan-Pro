@@ -27,13 +27,7 @@ from ultralytics import YOLO
 
 ROOT = Path(__file__).resolve().parent
 
-MODEL_PATH = (
-    ROOT
-    / "bdfd9_training_runs"
-    / "experiment_1"
-    / "weights"
-    / "best.pt"
-)
+MODEL_PATH = ROOT / "best.pt"
 
 DB_PATH = ROOT / "textiscan_history.db"
 
