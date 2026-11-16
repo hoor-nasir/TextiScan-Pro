@@ -118,3 +118,5 @@ TextiScan Pro is a research prototype. Its predictions may include false positiv
 ## Code Availability
 
 The application source code and trained YOLOv8n model weights are available in this repository for academic review and reproducibility.
+
+**Project Credits:** TextiScan Pro is a collaborative academic project developed by Hoor Nasir, Uzma Niaz, and Muskan Khan.
