@@ -16,6 +16,48 @@ The project uses a YOLOv8n object detection model trained on the BDFD9 fabric de
 - Inspection history and analytics
 - Manual review and feedback
 
+ 
+## Project Screenshots
+
+The following screenshots demonstrate the TextiScan Pro interface, fabric defect detection, and model training performance.
+
+### 1. TextiScan Pro Dashboard
+
+![TextiScan Pro Dashboard](screenshots/Screenshot%202026-11-11%20023957.png)
+
+### 2. Clean Fabric Inspection
+
+The system shows no defect detections above the selected confidence threshold.
+
+![Clean Fabric Inspection 1](screenshots/Picture1.png)
+
+![Clean Fabric Inspection 2](screenshots/Picture2.png)
+
+### 3. Hole Detection
+
+The model highlights a detected hole using a red bounding box.
+
+![Hole Detection](screenshots/Screenshot%202026-11-11%20024011.png)
+
+### 4. DropStitch Detection
+
+The model identifies a dropped stitch and marks its location.
+
+![DropStitch Detection](screenshots/Screenshot%202026-11-13%20220414.png)
+
+### 5. Yarn Dust Detection
+
+The model highlights detected yarn dust regions.
+
+![Yarn Dust Detection](screenshots/Screenshot%202026-11-13%20220901.png)
+
+### 6. YOLOv8n Training Performance
+
+Training and validation graphs showing model performance across 30 epochs.
+
+![Training Results](screenshots/Screenshot%202026-11-13%20221643.png)
+ 
+
 ## Supported Defect Classes
 
 1. DropStitch
