@@ -29,8 +29,6 @@ The following screenshots demonstrate the TextiScan Pro interface, fabric defect
 
 The system shows no defect detections above the selected confidence threshold.
 
-![Clean Fabric Inspection 1](screenshots/Picture1.png)
-
 ![Clean Fabric Inspection 2](screenshots/Picture2.png)
 
 ### 3. Hole Detection
